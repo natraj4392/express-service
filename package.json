@@ -84,7 +84,7 @@
     "@babel/preset-env": "7.10.2",
     "@babel/register": "7.10.1",
     "chai": "4.2.0",
-    "codecov": "3.7.0",
+    "codecov": "3.7.1",
     "cross-env": "7.0.2",
     "eslint": "7.1.0",
     "eslint-config-leapfrog": "3.0.0",
